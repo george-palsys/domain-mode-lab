@@ -9,11 +9,14 @@ Windows
 ![image](https://github.com/george-palsys/domain-mode-lab/blob/main/Pre-requisites/pic/2.PNG)
 
 3. 選擇 Next
+
 ![image](https://github.com/george-palsys/domain-mode-lab/blob/main/Pre-requisites/pic/3.PNG)
 
 4. 選擇 Install
+
 ![image](https://github.com/george-palsys/domain-mode-lab/blob/main/Pre-requisites/pic/4.PNG)
 
 5. 選擇 Finish
+   
 ![image](https://github.com/george-palsys/domain-mode-lab/blob/main/Pre-requisites/pic/5.PNG)
 
